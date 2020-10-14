@@ -1,0 +1,27 @@
+\contentsline {chapter}{Acknowledgments}{iii}{dummy.4}%
+\contentsline {chapter}{List of Figures}{vi}{dummy.6}%
+\contentsline {chapter}{Abstract}{vii}{dummy.8}%
+\contentsline {chapter}{\numberline {1}Results}{1}{chapter.9}%
+\contentsline {section}{\numberline {1.1}1 hp Motor}{2}{section.10}%
+\contentsline {subsection}{\numberline {1.1.1}Motor characteristics}{2}{subsection.11}%
+\contentsline {subsection}{\numberline {1.1.2}Method 1}{4}{subsection.15}%
+\contentsline {subsubsection}{\numberline {1.1.2.1}Rated Load Test}{4}{subsubsection.16}%
+\contentsline {subsubsection}{\numberline {1.1.2.2}Load curve test}{4}{subsubsection.18}%
+\contentsline {subsubsection}{\numberline {1.1.2.3}No load test}{5}{subsubsection.20}%
+\contentsline {subsection}{\numberline {1.1.3}Method 2}{8}{subsection.26}%
+\contentsline {subsubsection}{\numberline {1.1.3.1}Rated Load Test}{8}{subsubsection.27}%
+\contentsline {subsubsection}{\numberline {1.1.3.2}Load curve test}{8}{subsubsection.29}%
+\contentsline {subsubsection}{\numberline {1.1.3.3}No load test}{9}{subsubsection.31}%
+\contentsline {section}{\numberline {1.2}1.5 hp Motor}{12}{section.37}%
+\contentsline {subsection}{\numberline {1.2.1}Motor characteristics}{12}{subsection.38}%
+\contentsline {subsection}{\numberline {1.2.2}Method 1}{14}{subsection.42}%
+\contentsline {subsubsection}{\numberline {1.2.2.1}Rated Load Test}{14}{subsubsection.43}%
+\contentsline {subsubsection}{\numberline {1.2.2.2}Load curve test}{14}{subsubsection.45}%
+\contentsline {subsubsection}{\numberline {1.2.2.3}No load test}{15}{subsubsection.47}%
+\contentsline {subsection}{\numberline {1.2.3}Method 2}{18}{subsection.53}%
+\contentsline {subsubsection}{\numberline {1.2.3.1}Rated Load Test}{18}{subsubsection.54}%
+\contentsline {subsubsection}{\numberline {1.2.3.2}Load curve test}{18}{subsubsection.56}%
+\contentsline {subsubsection}{\numberline {1.2.3.3}No load test}{19}{subsubsection.58}%
+\contentsline {section}{\numberline {1.3}Concluding Remarks}{22}{section.64}%
+\vspace {2em}
+\vspace {2em}

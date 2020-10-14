@@ -1,0 +1,5 @@
+PWD F:\Study\MS THESIS\writeup\2017-FMSEE32 LaTeX Files\Chapters
+INPUT C:\Users\Arsla\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT Chapter4.tex
+OUTPUT Chapter4.log
+INPUT C:\Users\Arsla\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmti10.tfm
