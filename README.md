@@ -9,7 +9,4 @@ apt install texlive-latex-extra
 ```
 
 # TODO
-- Add references in bib
-- Add references in chapters
-- Add graphs in ch 1
 - Final review
