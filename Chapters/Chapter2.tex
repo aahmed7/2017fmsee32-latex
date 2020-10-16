@@ -61,6 +61,30 @@ The produced torque is proportional to the relative speed of the stator and roto
 	 n_r    &=  \text{speed of rotor.} \\
 \end{align*}
 
+\subsection{Induction motor model in simulink}
+The induction motor model in simulink, used for this project is taken from Electromechanical Systems, Electric Machines, and Applied Mechatronics by  S.E. Lyshevski\cite{lyshevski2018electromechanical}. It uses the following differential equations:
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width = 4.5in]{./Figures/MS/eq23.png}
+		\rule{35em}{0.5pt}
+	\caption{eq21}
+\end{figure}
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width = 4.5in]{./Figures/MS/eq24.png}
+		\rule{35em}{0.5pt}
+	\caption{eq22}
+\end{figure}
+
+And the following model is developed:
+\begin{figure}[htbp]
+	\centering
+		\includegraphics[width = 4.5in]{./Figures/MS/eq28.png}
+		\rule{35em}{0.5pt}
+	\caption{Block view of simulink induction motor model}
+	\label{fig:Block view of simulink induction motor model}
+\end{figure}
+
 \section{Types of Losses}
 According to the IEC standards\cite{iec6003421}, following are the types of losses in induction motors:
 \begin{itemize}
