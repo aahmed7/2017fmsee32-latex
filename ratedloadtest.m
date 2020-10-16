@@ -1,7 +1,6 @@
 %run at 2
 setpoint_load = P_rated;
 t = 500;
-%R_stator = 4.5;
 sim('magneticbrake.slx',t)
 
 index = find(speed.time==t);

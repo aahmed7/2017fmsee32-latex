@@ -63,19 +63,18 @@ The produced torque is proportional to the relative speed of the stator and roto
 
 \subsection{Induction motor model in simulink}
 The induction motor model in simulink, used for this project is taken from Electromechanical Systems, Electric Machines, and Applied Mechatronics by  S.E. Lyshevski\cite{lyshevski2018electromechanical}. It uses the following differential equations:
-\begin{figure}[htbp]
+\begin{figure}[!htbp]
 	\centering
 		\includegraphics[width = 4.5in]{./Figures/MS/eq23.png}
 		\rule{35em}{0.5pt}
-	\caption{eq21}
 \end{figure}
-\begin{figure}[htbp]
+\begin{figure}[!htbp]
 	\centering
 		\includegraphics[width = 4.5in]{./Figures/MS/eq24.png}
 		\rule{35em}{0.5pt}
-	\caption{eq22}
 \end{figure}
 
+\clearpage
 And the following model is developed:
 \begin{figure}[htbp]
 	\centering
@@ -85,6 +84,7 @@ And the following model is developed:
 	\label{fig:Block view of simulink induction motor model}
 \end{figure}
 
+\clearpage
 \section{Types of Losses}
 According to the IEC standards\cite{iec6003421}, following are the types of losses in induction motors:
 \begin{itemize}
@@ -220,12 +220,12 @@ The IEC standard has defined multiple methods for testing which include both dir
 \end{figure}
 
 \subsection{Testing methods with pumps}
-Testing of pumps is done under ISO-9906 standard which provides conditions and requirements for testing of pumps. The following table shows the accuracy of pump testing:
+Testing of pumps is done under ISO-9906\cite{iso9906} standard which provides conditions and requirements for testing of pumps. The following table shows the accuracy of pump testing:
 \begin{figure}[htbp]
 	\centering
 		\includegraphics[width = 5.5in]{./Figures/MS/25.png}
 		\rule{35em}{0.5pt}
-	\caption{Testing Accuracy by configuration defined by ISO-9906\cite{iso9906}}
+	\caption{Testing Accuracy by configuration defined by ISO-9906}
 	\label{fig:Testing Accuracy by configuration defined by ISO-9906}
 \end{figure}
 This table shows that the best accuracy is achieved in the case of separate testing of pumps and motors. So, IEC 60034-2-1 was used for testing the motors separately.
